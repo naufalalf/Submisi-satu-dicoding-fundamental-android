@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SubmisionSatu</string>
+    <string name="masukkan_nama_film">Cari Film</string>
+    <string name="nama_movie">Nama Film</string>
+    <string name="cari">Cari</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal Rilis</string>
+</resources>
